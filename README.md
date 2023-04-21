@@ -4,6 +4,8 @@
 
 ## Description
 
+This project was created to make a social nextwork API and to use NoSql database to create routes and test those routes using insomnia.
+
 ## Table of Contents
 
 [Installation](#installation)
